@@ -66,6 +66,6 @@ Python 2.7.14 :: Anaconda, Inc.
 
 ### Why did not you use BAT or VBS?
 
-Microsoft seems to have a special view on calling process, especially about arguments. 
-Especially regarding the escaping of arguments, it is a special one unparalleled. 
+Microsoft seems to have a unique view on calling process, especially about arguments. 
+Regarding the escaping of arguments, it is a special one unparalleled. 
 Let's not approach them unless necessary.
